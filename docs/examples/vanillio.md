@@ -1,4 +1,4 @@
-##Vanillio
+## Vanillio
 Vanillio is a Destroy the Monument style map. The objective is to destroy the enemy team's obsidian monument.
 
 This map features portals, which adds to the complexity of the XML. 
