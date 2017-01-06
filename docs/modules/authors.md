@@ -5,11 +5,16 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
 	<title>GamePlate - Home</title>
-	<link rel="stylesheet" type="text/css" href="/files/css/bootstrap.4.0.0.min.css">
+	<!--link rel="stylesheet" type="text/css" href="/files/css/bootstrap.4.0.0.min.css">
 	<link rel="stylesheet" type="text/css" href="/files/css/bootstrap.4.0.0.docs.css">
 
 	<link rel="stylesheet" type="text/css" href="/files/css/main.css">
-	<link rel="stylesheet" type="text/css" href="/files/css/highlight/atom-one-light.css">
+	<link rel="stylesheet" type="text/css" href="/files/css/highlight/atom-one-light.css"-->
+	<link rel="stylesheet" type="text/css" href="https://gameplatetest.000webhostapp.com/files/css/bootstrap.4.0.0.min.css">
+	<link rel="stylesheet" type="text/css" href="https://gameplatetest.000webhostapp.com/files/css/bootstrap.4.0.0.docs.css">
+
+	<link rel="stylesheet" type="text/css" href="https://gameplatetest.000webhostapp.com/files/css/main.css">
+	<link rel="stylesheet" type="text/css" href="https://gameplatetest.000webhostapp.com/files/css/highlight/atom-one-light.css">
 </head>
 <body>
 	<?php
@@ -33,10 +38,15 @@
 			</div>
 		</div>
 	</div>
-	<script src="/files/js/jquery.3.1.1.min.js"></script>
+	<!--script src="/files/js/jquery.3.1.1.min.js"></script>
 	<script src="/files/js/tether.min.js"></script>
 	<script src="/files/js/bootstrap.4.0.0.min.js"></script>
 	<script src="/files/js/highlight.pack.js"></script>
-	<script src="/files/js/main.js"></script>
+	<script src="/files/js/main.js"></script-->
+	<script src="https://gameplatetest.000webhostapp.com/files/js/jquery.3.1.1.min.js"></script>
+	<script src="https://gameplatetest.000webhostapp.com/files/js/tether.min.js"></script>
+	<script src="https://gameplatetest.000webhostapp.com/files/js/bootstrap.4.0.0.min.js"></script>
+	<script src="https://gameplatetest.000webhostapp.com/files/js/highlight.pack.js"></script>
+	<script src="https://gameplatetest.000webhostapp.com/files/js/main.js"></script>
 </body>
 </html>
