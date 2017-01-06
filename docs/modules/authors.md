@@ -17,9 +17,6 @@
 	<link rel="stylesheet" type="text/css" href="https://gameplatetest.000webhostapp.com/files/css/highlight/atom-one-light.css">
 </head>
 <body>
-	<?php
-	include $_SERVER["DOCUMENT_ROOT"]."/navbar.php";
-	?>
 	<div class="container-fluid">
 		<h1>&lt;authors&gt;</h1>
 		<p>Information regarding the <code>&lt;authors&gt;</code> tag and all sub-tags.</p>
