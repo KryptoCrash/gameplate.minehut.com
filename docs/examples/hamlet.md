@@ -3,7 +3,6 @@ Hamlet is an Attack/Defend map. The objective is for the attackers to destroy th
 
 This map highlights the possibility to define a winner when the time limit has been reached.
 
-{% highlight xml %}
 ```xml
 <map>
     <name>Hamlet</name>
@@ -103,4 +102,3 @@ This map highlights the possibility to define a winner when the time limit has b
     </kits>
 </map>
 ```
-{% endhighlight %}
